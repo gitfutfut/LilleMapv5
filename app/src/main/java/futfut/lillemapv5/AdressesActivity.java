@@ -11,3 +11,5 @@ public class AdressesActivity extends AppCompatActivity {
         setContentView(R.layout.activity_adresses);
     }
 }
+
+//test
