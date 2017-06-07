@@ -12,4 +12,3 @@ public class AdressesActivity extends AppCompatActivity {
     }
 }
 
-//test
